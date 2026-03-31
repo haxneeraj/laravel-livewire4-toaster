@@ -33,7 +33,7 @@
 ### 1. Install via Composer
 
 ```bash
-composer require haxneeraj/livewire4-toaster
+composer require haxneeraj/laravel-livewire4-toaster
 ```
 
 The package auto-discovers its service provider and facade.
