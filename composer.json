@@ -1,5 +1,5 @@
 {
-    "name": "haxneeraj/livewire4-toaster",
+    "name": "haxneeraj/laravel-livewire4-toaster",
     "description": "Elegant toast notifications for Laravel Livewire 4 + Alpine.js — event-driven, configurable, zero dependencies.",
     "keywords": [
         "laravel",
@@ -10,12 +10,12 @@
         "toaster",
         "tall-stack"
     ],
-    "homepage": "https://github.com/haxneeraj/livewire4-toaster",
+    "homepage": "https://github.com/haxneeraj/laravel-livewire4-toaster",
     "license": "MIT",
     "authors": [
         {
-            "name": "Neeraj Kumar",
-            "email": "neeraj@haxneeraj.com",
+            "name": "Neeraj Saini",
+            "email": "hax-neeraj@outlook.com",
             "homepage": "https://haxneeraj.com",
             "role": "Developer"
         }
