@@ -476,5 +476,7 @@ The MIT License (MIT). See [LICENSE](LICENSE) for details.
 
 ## 🙏 Credits
 
-- **[Neeraj Kumar](https://haxneeraj.com)** — Creator & Maintainer
+- **[Neeraj Saini (HaxNeeraj)](https://haxneeraj.com)** — Creator & Maintainer
+  - [![GitHub](https://img.shields.io/badge/GitHub-haxneeraj-181717?style=flat-square&logo=github)](https://github.com/haxneeraj)
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-hax--neeraj-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hax-neeraj/)
 - Built for the [TALL Stack](https://tallstack.dev/) community
