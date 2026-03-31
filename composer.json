@@ -1,0 +1,68 @@
+{
+    "name": "haxneeraj/livewire4-toaster",
+    "description": "Elegant toast notifications for Laravel Livewire 4 + Alpine.js — event-driven, configurable, zero dependencies.",
+    "keywords": [
+        "laravel",
+        "livewire",
+        "alpine",
+        "toast",
+        "notifications",
+        "toaster",
+        "tall-stack"
+    ],
+    "homepage": "https://github.com/haxneeraj/livewire4-toaster",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Neeraj Kumar",
+            "email": "neeraj@haxneeraj.com",
+            "homepage": "https://haxneeraj.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "illuminate/support": "^10.0|^11.0|^12.0",
+        "illuminate/contracts": "^10.0|^11.0|^12.0"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^8.0|^9.0|^10.0",
+        "phpunit/phpunit": "^10.0|^11.0",
+        "livewire/livewire": "^3.0|^4.0"
+    },
+    "suggest": {
+        "livewire/livewire": "Required for Livewire component integration (^3.0|^4.0)"
+    },
+    "autoload": {
+        "psr-4": {
+            "Haxneeraj\\LivewireToaster\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Haxneeraj\\LivewireToaster\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Haxneeraj\\LivewireToaster\\ToasterServiceProvider"
+            ],
+            "aliases": {
+                "Toast": "Haxneeraj\\LivewireToaster\\Facades\\Toast"
+            }
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
