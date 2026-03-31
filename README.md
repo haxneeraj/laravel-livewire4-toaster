@@ -8,6 +8,10 @@
 
 ![Toast Preview](https://img.shields.io/badge/🟢_Success-✓-emerald?style=for-the-badge) ![Toast Preview](https://img.shields.io/badge/🔴_Error-✗-red?style=for-the-badge) ![Toast Preview](https://img.shields.io/badge/🟡_Warning-⚠-amber?style=for-the-badge) ![Toast Preview](https://img.shields.io/badge/🔵_Info-ℹ-sky?style=for-the-badge)
 
+### 📸 Demo
+
+![Laravel Livewire4 Toaster Demo](laravel-livewire4-toaster.gif)
+
 ---
 
 ## ✨ Features
